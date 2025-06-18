@@ -1,14 +1,8 @@
-Downdijk is uw reclamebureau & partner voor resultaat met reclame & media.
+WebDevSpecialist van Dijk ontwikkelt digitale platforms op maat die jouw bedrijf vooruithelpen. Of het nu gaat om een website, webshop, ledenportaal of bedrijfsapplicatie, wij bouwen wat je nodig hebt om te groeien.
 
-Producten en diensten worden standaard opgeleverd met:
+Met meer dan 17 jaar ervaring in full stack development leveren we snelle, veilige en schaalbare oplossingen. We bouwen met Leaf PHP, het krachtige Mythril CMS en onze eigen WDS Core. Daarnaast beheersen we Vanilla JavaScript tot in detail en zetten we verouderde jQuery-projecten om naar moderne, efficiënte code.
 
-kennis
-creativiteit
-kwaliteit
-Service
-Kennis, kunde en diensten zijn in huis om websites en webshops W3c, zoekmachine geoptimaliseerd (SEO) en beveiligd (met SSL encryptie) op te leveren en wij zien problemen eerder als een uitdaging om tot klantoplossingen te komen. Ook zijn wij gespecialiseerd in maatwerk programmeer werk zoals CRM en CMS systemen, online webapplicaties en andere opmaat gemaakte oplossingen.
+Geen standaardtemplates. Geen overbodige plugins. Alleen resultaatgerichte oplossingen.
 
-Sinds de start in 2008 van Downdijk hebben wij onder meer gewerkt voor TennisLadder, DOC~Zuid, Per Ton Metals BV, JBFilm.nl, Camtronics, Wapenbroeders zuidelijk Nederland, SKAN Nederland, Van Bakel Verhuur en vele anderen.
-
-Benieuwd wat wij voor u kunnen betekenen? Neem gerust contact op.
-www.downdijk.nl
+Sinds 2008 hebben we gewerkt voor uiteenlopende klanten in industrie, zorg, recreatie en zakelijke dienstverlening, zoals Alucol, Flowsort, Party Alarm en Per Ton Metals.
+www.webdevspecialist.com
